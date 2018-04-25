@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /wusage
+Allow: /
+Sitemap: http://www.labmellow.com.br/sitemap.xml
